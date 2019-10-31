@@ -1,0 +1,11 @@
+C:\Users\joann\OneDrive\Dokumenty\codecool\OOP\SI_1\CreateClass\bin\Debug\netcoreapp3.0\CreateClass.exe
+C:\Users\joann\OneDrive\Dokumenty\codecool\OOP\SI_1\CreateClass\bin\Debug\netcoreapp3.0\CreateClass.deps.json
+C:\Users\joann\OneDrive\Dokumenty\codecool\OOP\SI_1\CreateClass\bin\Debug\netcoreapp3.0\CreateClass.runtimeconfig.json
+C:\Users\joann\OneDrive\Dokumenty\codecool\OOP\SI_1\CreateClass\bin\Debug\netcoreapp3.0\CreateClass.runtimeconfig.dev.json
+C:\Users\joann\OneDrive\Dokumenty\codecool\OOP\SI_1\CreateClass\bin\Debug\netcoreapp3.0\CreateClass.dll
+C:\Users\joann\OneDrive\Dokumenty\codecool\OOP\SI_1\CreateClass\bin\Debug\netcoreapp3.0\CreateClass.pdb
+C:\Users\joann\OneDrive\Dokumenty\codecool\OOP\SI_1\CreateClass\obj\Debug\netcoreapp3.0\CreateClass.csprojAssemblyReference.cache
+C:\Users\joann\OneDrive\Dokumenty\codecool\OOP\SI_1\CreateClass\obj\Debug\netcoreapp3.0\CreateClass.AssemblyInfoInputs.cache
+C:\Users\joann\OneDrive\Dokumenty\codecool\OOP\SI_1\CreateClass\obj\Debug\netcoreapp3.0\CreateClass.AssemblyInfo.cs
+C:\Users\joann\OneDrive\Dokumenty\codecool\OOP\SI_1\CreateClass\obj\Debug\netcoreapp3.0\CreateClass.dll
+C:\Users\joann\OneDrive\Dokumenty\codecool\OOP\SI_1\CreateClass\obj\Debug\netcoreapp3.0\CreateClass.pdb
